@@ -4,8 +4,8 @@ return [
     'production' => false,
     'baseUrl' => 'https://artisanstatic.netlify.app',
     'site' => [
-        'title' => 'CSCE-645 Project',
-        'description' => 'Personal blog of John Doe.',
+        'title' => 'Samraat\'s Portfolio',
+        'description' => 'Personal portfolio of Samraat Gupta.',
         'image' => 'default-share.png',
     ],
     'owner' => [
@@ -21,8 +21,8 @@ return [
         'disqus' => 'artisanstatic',
         'formcarry' => 'XXXXXXXXXXXX',
         'cloudinary' => [
-            'cloudName' => 'artisanstatic',
-            'apiKey' => '365895137117119',
+            'cloudName' => 'dsbycphhk',
+            'apiKey' => '942497253326383',
         ],
     ],
     'collections' => [

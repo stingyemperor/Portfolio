@@ -5,9 +5,10 @@
 
     <p>This website contains the developments for my course project.</p>
 
-    <p>Different reports of the project can be accessed from the Posts page.</p>
+    <p>Different reports of the project can be accessed from the Project tab.</p>
 
-
-    <img src="https://raw.githubusercontent.com/stingyemperor/artisan-static/master/source/ezgif.com-gif-maker.gif" width="650" height="488" title="Logo of a company" alt="Logo of a company" />
+    <p align="center">
+        <img width="800" height="600" src="{{ media('CavernousDeliriousFlicker-mobile_AdobeExpress_xmgm4w.gif') }}">
+    </p>
 
 @endsection
