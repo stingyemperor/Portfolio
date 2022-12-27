@@ -13,7 +13,7 @@ return [
     ],
     'links' => [
         //'twitter' => 'https://twitter.com/johndoe',
-        'github' => 'https://github.com/stingyemperor/artisan-static',
+        'github' => 'https://github.com/stingyemperor',
     ],
     'services' => [
         'cmsVersion' => '~2.10',

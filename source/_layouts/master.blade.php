@@ -39,7 +39,7 @@
         <footer>
             <small>
                 &copy; <span data-year></span> {{ $page->owner->name }} &nbsp;&bull;&nbsp;
-                <a href="https://github.com/stingyemperor/artisan-static">GitHub repo</a>
+                <a href="https://github.com/stingyemperor">GitHub repo</a>
             </small>
         </footer>
     </section>
