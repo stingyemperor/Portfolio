@@ -5,7 +5,11 @@ comments: false
 ---
 #### Description
 
-Digital drawing software like photoshop and clip studio paint lack convenient shadow references. Clip studio paint provides 3-D models with rendered shadows, but the amount of models available are very limited and does not allow for custom models. Thus, many  artists generally use a software like blender to help with obtaining references for shadows.  This is very inconvenient for users, as 3-D modelling programs are complicated to use.
+The framework is based on the Mask RCNN algorithm, which is trained to recognize the objects and details in a user sketch and replace them with
+high-quality, stylized versions. This allows users to create professional-looking sketches in a fraction of the time it would take to do so
+by hand. This project contains a user study and the results are reflected in the paper below-
 
-The project aims to tackle this problem by providing users with an interface that can convert their 2-D drawings into 3-D models. These 3-D models can then be used to calculate shadows. While calculating shadows is mostly a closed problem now, 2-D sketch to 3-D models is still an active area of research. Recent papers in the area of sketch based modelling are combining machine learning with techniques from geometric modelling, but there is still work to be done with regards to finding a balance between usability and accuracy.
+<embed src = "https://res.cloudinary.com/dsbycphhk/image/upload/v1672114067/Sketch_Rec_Final_Project__Team_A2C_Report_hu08tm.pdf" type = "application/pdf" width = "100%" height = "200%">
 
+Linki to the paper - [Paper](https://res.cloudinary.com/dsbycphhk/image/upload/v1672114067/Sketch_Rec_Final_Project__Team_A2C_Report_hu08tm.pdf
+)
