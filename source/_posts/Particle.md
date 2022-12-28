@@ -24,5 +24,4 @@ The project is implemented in C++ utilizing the magnum library and OpenGL for re
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nNgPC9vuZkM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
-
+The code to the project can be found at [Code](https://github.com/stingyemperor/Granular-Material)

@@ -1,5 +1,5 @@
 ---
-title: '03 - Architectural Sketch Recognition and Generation'
+title: '04 - Architectural Sketch Recognition and Generation'
 date: 2022-08-30
 comments: false
 ---

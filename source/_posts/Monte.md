@@ -1,5 +1,5 @@
 ---
-title: '02 - Monte-Carlo Ray Tracer'
+title: '03 - Monte-Carlo Ray Tracer'
 date: 2022-01-31
 comments: false
 ---
