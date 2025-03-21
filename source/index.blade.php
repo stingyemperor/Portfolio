@@ -3,13 +3,15 @@
 @section('content')
     <h1>Welcome to my Portfolio</h1>
 
-    <p>I am a Computer Scince student currently working on my Master's at Texas A&M university .
+    <p>I am a Computer Scince student currently working on my Ph.D. at Texas A&M university .
         This website contains some of my highlited projects that I have worked on so far.</p>
 
-    <p>I am current employed as a Research Assistant at the Smart City, Smart Construction, Smart Building lab at Texas A&M University.There I am working on a 
-        realistic VR excavator simulator. My main duties include include working on the the environemnt as well as the physics for the soil and excavator interactions.
+    <p> I am currently working with Dr. John Keyser on topics realated to geomteric modeling and physically-based modeling.
+
+    <p> Previously, I was employed as a Research Assistant at the Smart City, Smart Construction, Smart Building lab at Texas A&M University.There I worked on a
+        realistic VR excavator simulator. My main duties included working on the the environemnt as well as the physics for the soil and excavator interactions.
         A link to the lab can be found at <a href="https://www.hamresearchgroup.com/" target="_blank">Ham Research Lab</a>.
-    </p>    
+    </p>
     <p>The different projects can be accessed from the Projects tab.</p>
 
     <p align="center">
